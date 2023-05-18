@@ -1,5 +1,4 @@
-import { Col, Row, Typography, Select } from "antd";
-import millify from "millify";
+import { Col, Row } from "antd";
 
 const Exchanges = () => {
   return (
